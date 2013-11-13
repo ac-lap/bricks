@@ -1,0 +1,53 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="PhoneApp2.Page9"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28"/>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Image x:Name="img" Margin="-15,-43,-14,0" Source="/background-style.jpg" Stretch="Fill"/>
+            <TextBox x:Name="te_1" HorizontalAlignment="Left" Height="72" Margin="0,330,0,0" TextWrapping="Wrap" Text="Player_1" VerticalAlignment="Top" Width="456" KeyUp="keyUp">
+                <TextBox.SelectionBackground>
+                    <ImageBrush Stretch="UniformToFill" ImageSource="/red_w.png"/>
+                </TextBox.SelectionBackground>
+                <TextBox.Background>
+                    <ImageBrush Stretch="UniformToFill" ImageSource="/red_w.png"/>
+                </TextBox.Background>
+            </TextBox>
+            <TextBox x:Name="te_2" HorizontalAlignment="Left" Height="72" Margin="0,490,0,0" TextWrapping="Wrap" Text="Player_2" VerticalAlignment="Top" Width="456" KeyUp="keyUp">
+                <TextBox.SelectionForeground>
+                    <ImageBrush Stretch="UniformToFill" ImageSource="/blue_w.png"/>
+                </TextBox.SelectionForeground>
+                <TextBox.Background>
+                    <ImageBrush Stretch="UniformToFill" ImageSource="/blue_w.png"/>
+                </TextBox.Background>
+            </TextBox>
+            <Image HorizontalAlignment="Left" Height="176" Margin="22,30,0,0" VerticalAlignment="Top" Width="400" Source="/player_name.png"/>
+            <Image HorizontalAlignment="Left" Height="58" Margin="-15,262,0,0" VerticalAlignment="Top" Width="262" Source="/pl_1.png"/>
+            <Image HorizontalAlignment="Left" Height="58" Margin="-15,422,0,0" VerticalAlignment="Top" Width="262" Source="/pl_2.png"/>
+            <Image x:Name="next" HorizontalAlignment="Left" Height="58" Margin="208,659,-14,0" VerticalAlignment="Top" Width="262" Source="/next.png" MouseLeftButtonDown="next_click"/>
+
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

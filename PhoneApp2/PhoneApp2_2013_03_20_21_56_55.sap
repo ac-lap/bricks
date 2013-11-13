@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProfilerSession Type="ExecutionPerformanceAnalysis" Name="PhoneApp24033584721">
+  <TargetApplication Name="PhoneApp2" SourceProject="PhoneApp2.csproj" Type="WindowsPhone71">
+    <ApplicationBinary Path="Bin\Debug\PhoneApp2.xap" Timestamp="15/03/2013 19:44:49" />
+    <ApplicationIconPath Path="" />
+    <SymbolPaths>
+      <Path Value="Bin\Debug\" />
+    </SymbolPaths>
+  </TargetApplication>
+  <Settings>
+    <Probe Name="Visual">
+      <CollectElementLevelCosting Enabled="True" />
+      <CollectSnapshots Enabled="True" Interval="1000" Resampling="2" />
+      <CollectMediaEvents Enabled="False" />
+      <CollectCacheDetails Enabled="False" />
+    </Probe>
+    <Probe Name="Code">
+      <SampleCallStack Enabled="True" Depth="4294967295" Interval="10" />
+      <CollectPerformanceCounters Enabled="False" />
+    </Probe>
+    <Probe Name="Memory">
+      <MemoryCallStack Enabled="False" Depth="4294967295" />
+      <ObjectTree Enabled="False" Interval="10" />
+    </Probe>
+  </Settings>
+  <Data>
+    <Logs>
+      <File Type="NativeFormat" Path="PerfLogs\PhoneApp24033584721\tmpD0F4.spl" />
+      <File Type="SRUMData" Path="PerfLogs\PhoneApp24033584721\tmpD0F5.srum" />
+    </Logs>
+  </Data>
+  <TargetDeviceSettings OSVersion="8.0.10211" AvailablePhysicalMemoryAtStartup="0" ProcessorArchitectureType="Arm" ProcessorInformation="Unknown" IsEmulator="False" />
+</ProfilerSession>

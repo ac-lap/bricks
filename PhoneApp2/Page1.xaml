@@ -1,0 +1,51 @@
+﻿<phone:PhoneApplicationPage xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone" xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:UI="clr-namespace:Microsoft.Advertising.Mobile.UI;assembly=Microsoft.Advertising.Mobile.UI"
+    x:Class="PhoneApp2.Page1"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="False" mc:Ignorable="d">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <Image x:Name="img" Source="/black-painted-brick-wall-texture.jpg" Grid.RowSpan="2" Margin="-2,0,-3,0" Stretch="UniformToFill" Width="485"/>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28"/>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,158,12,25" Width="456" Height="572">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+        <Grid x:Name="add_grid" HorizontalAlignment="Left" Margin="14,6,0,0" VerticalAlignment="Top" Grid.RowSpan="2" Width="456">
+            <Image HorizontalAlignment="Left" Height="117" Margin="0,53,0,0" VerticalAlignment="Top" Width="210" Source="/brick_red.png" Stretch="UniformToFill"/>
+            <Image HorizontalAlignment="Left" Margin="246,53,0,0" VerticalAlignment="Top" Width="210" Height="117" Stretch="UniformToFill" Source="/brick_blue.png"/>
+            <TextBlock x:Name="t_c" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Height="100" Width="210" Margin="0,70,0,0" Text="0" FontFamily="Verdana" FontWeight="Bold" TextAlignment="Center" FontSize="72"/>
+            <TextBlock x:Name="t_p" HorizontalAlignment="Left" Margin="246,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="100" Width="210" FontFamily="Verdana" FontWeight="Bold" FontSize="72" Text="0" TextAlignment="Center"/>
+            <TextBlock x:Name="t_turn" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="456" Height="48" TextAlignment="Center" FontSize="36" FontWeight="Bold" Foreground="#FFEE4E4E"/>
+        </Grid>
+        <Grid x:Name="pop_up" HorizontalAlignment="Left" Height="444" Margin="52,213,0,0" Grid.Row="1" VerticalAlignment="Top" Width="381" Visibility="Collapsed">
+            <Grid.Background>
+                <ImageBrush ImageSource="/background-style.jpg" Stretch="None" Opacity="0.75"/>
+            </Grid.Background>
+            <TextBlock x:Name="t_save" HorizontalAlignment="Center" Margin="38,24,43,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="41" Width="300" TextAlignment="Center" FontSize="24" FontWeight="Bold" Foreground="#FF03FF00"/>
+        </Grid>
+        <Grid x:Name="g_result" HorizontalAlignment="Left" Height="463" Margin="14,213,0,0" Grid.Row="1" VerticalAlignment="Top" Width="454" Visibility="Collapsed">
+            <TextBlock x:Name="tb1" HorizontalAlignment="Left" Margin="0,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="87" Width="454" FontWeight="Bold" FontSize="48" TextAlignment="Center" Text="Computer Wins !!" FontFamily="Microsoft YaHei" />
+            <Image HorizontalAlignment="Center" Height="60" Margin="96,188,96,0" VerticalAlignment="Top" Width="262" Source="/again.png" MouseLeftButtonDown="p_reset"/>
+            <Image HorizontalAlignment="Center" Height="60" Margin="96,275,96,0" VerticalAlignment="Top" Width="262" Source="/main_m_s.png" MouseLeftButtonDown="p_main"/>
+            <Image HorizontalAlignment="Center" Height="90" Margin="0,373,0,0" VerticalAlignment="Top" Width="348" Source="/rate.png" Stretch="UniformToFill" MouseLeftButtonDown="rate"/>
+        </Grid>
+        <UI:AdControl ApplicationId="93e026cc-40f2-4026-a9d2-4995aeafc6e9" AdUnitId="143999" HorizontalAlignment="Left" Height="80" Margin="0,675,0,0" Grid.Row="1" VerticalAlignment="Top" Width="480"/>
+    </Grid>
+
+</phone:PhoneApplicationPage>

@@ -1,0 +1,1139 @@
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.xap
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.csprojResolveAssemblyReference.cache
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\obj\Debug\App.g.cs
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\obj\Debug\MainPage.g.cs
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\obj\Debug\Page1.g.cs
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.xml
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.xml
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+c:\users\aclap\documents\visual studio 2012\Projects_N\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.xap
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.csprojResolveAssemblyReference.cache
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\obj\Debug\App.g.cs
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\obj\Debug\MainPage.g.cs
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\obj\Debug\Page1.g.cs
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+C:\Users\vani\Documents\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.xap
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.csprojResolveAssemblyReference.cache
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\obj\Debug\App.g.cs
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\obj\Debug\MainPage.g.cs
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\obj\Debug\Page1.g.cs
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\obj\Debug\Page2.g.cs
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\obj\Debug\Page3.g.cs
+C:\Users\acLAP\Documents\PhoneApp2\PhoneApp2\obj\Debug\Page4.g.cs
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\obj\Debug\App.g.cs
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\obj\Debug\MainPage.g.cs
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\obj\Debug\Page1.g.cs
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\obj\Debug\Page2.g.cs
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\obj\Debug\Page3.g.cs
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\obj\Debug\Page4.g.cs
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.xap
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\obj\Debug\Page5.g.cs
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.xml
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.xap
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.xml
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.csprojResolveAssemblyReference.cache
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\obj\Debug\App.g.cs
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\obj\Debug\MainPage.g.cs
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\obj\Debug\Page1.g.cs
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\obj\Debug\Page2.g.cs
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\obj\Debug\Page3.g.cs
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\obj\Debug\Page4.g.cs
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\obj\Debug\Page5.g.cs
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+C:\Users\Anubhav\Documents\PhoneApp3\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.csprojResolveAssemblyReference.cache
+C:\Users\Anubhav\Documents\PhoneApp2\PhoneApp2\obj\Debug\Page6.g.cs
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.xap
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.xml
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\obj\Debug\App.g.cs
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\obj\Debug\MainPage.g.cs
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\obj\Debug\Page1.g.cs
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\obj\Debug\Page2.g.cs
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\obj\Debug\Page3.g.cs
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\obj\Debug\Page4.g.cs
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\obj\Debug\Page5.g.cs
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\obj\Debug\Page6.g.cs
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+C:\Users\vani\Documents\anubhac\1\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.xap
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.xml
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.xml
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.xml
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.xml
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+L:\New folder\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.csprojResolveAssemblyReference.cache
+L:\New folder\PhoneApp2\PhoneApp2\obj\Debug\App.g.cs
+L:\New folder\PhoneApp2\PhoneApp2\obj\Debug\MainPage.g.cs
+L:\New folder\PhoneApp2\PhoneApp2\obj\Debug\Page1.g.cs
+L:\New folder\PhoneApp2\PhoneApp2\obj\Debug\Page2.g.cs
+L:\New folder\PhoneApp2\PhoneApp2\obj\Debug\Page3.g.cs
+L:\New folder\PhoneApp2\PhoneApp2\obj\Debug\Page4.g.cs
+L:\New folder\PhoneApp2\PhoneApp2\obj\Debug\Page5.g.cs
+L:\New folder\PhoneApp2\PhoneApp2\obj\Debug\Page6.g.cs
+L:\New folder\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+L:\New folder\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+L:\New folder\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+L:\New folder\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.xap
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.xml
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.csprojResolveAssemblyReference.cache
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\obj\Debug\App.g.cs
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\obj\Debug\MainPage.g.cs
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\obj\Debug\Page1.g.cs
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\obj\Debug\Page2.g.cs
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\obj\Debug\Page3.g.cs
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\obj\Debug\Page4.g.cs
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\obj\Debug\Page5.g.cs
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\obj\Debug\Page6.g.cs
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
+C:\Users\Anubhav\Documents\New folder\PhoneApp2\PhoneApp2\obj\Debug\Page7.g.cs
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\obj\Debug\App.g.cs
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\obj\Debug\MainPage.g.cs
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\obj\Debug\Page1.g.cs
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\obj\Debug\Page2.g.cs
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\obj\Debug\Page3.g.cs
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\obj\Debug\Page4.g.cs
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\obj\Debug\Page5.g.cs
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\obj\Debug\Page6.g.cs
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\obj\Debug\Page7.g.cs
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.xap
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.xml
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+C:\Users\vani\Documents\anubhac\2\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.xap
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.xml
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.xml
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.xml
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.xml
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+M:\new\PhoneApp2\PhoneApp2\obj\Debug\App.g.cs
+M:\new\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+M:\new\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+M:\new\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+M:\new\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
+M:\new\PhoneApp2\PhoneApp2\obj\Debug\Page1.g.cs
+M:\new\PhoneApp2\PhoneApp2\obj\Debug\Page2.g.cs
+M:\new\PhoneApp2\PhoneApp2\obj\Debug\Page3.g.cs
+M:\new\PhoneApp2\PhoneApp2\obj\Debug\Page4.g.cs
+M:\new\PhoneApp2\PhoneApp2\obj\Debug\Page5.g.cs
+M:\new\PhoneApp2\PhoneApp2\obj\Debug\Page6.g.cs
+M:\new\PhoneApp2\PhoneApp2\obj\Debug\Page7.g.cs
+M:\new\PhoneApp2\PhoneApp2\obj\Debug\Page8.g.cs
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\fonts\GrutchShaded.ttf
+M:\new\PhoneApp2\PhoneApp2\Bin\Debug\fonts\karabine.ttf
+M:\new\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.csprojResolveAssemblyReference.cache
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\fonts\GrutchShaded.ttf
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\fonts\karabine.ttf
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.xap
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.xml
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.xml
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.xml
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.xml
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+J:\new\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+J:\new\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.csprojResolveAssemblyReference.cache
+J:\new\PhoneApp2\PhoneApp2\obj\Debug\App.g.cs
+J:\new\PhoneApp2\PhoneApp2\obj\Debug\Page1.g.cs
+J:\new\PhoneApp2\PhoneApp2\obj\Debug\Page2.g.cs
+J:\new\PhoneApp2\PhoneApp2\obj\Debug\Page3.g.cs
+J:\new\PhoneApp2\PhoneApp2\obj\Debug\Page4.g.cs
+J:\new\PhoneApp2\PhoneApp2\obj\Debug\Page5.g.cs
+J:\new\PhoneApp2\PhoneApp2\obj\Debug\Page6.g.cs
+J:\new\PhoneApp2\PhoneApp2\obj\Debug\Page7.g.cs
+J:\new\PhoneApp2\PhoneApp2\obj\Debug\Page8.g.cs
+J:\new\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+J:\new\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+J:\new\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+J:\new\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
+D:\new\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.csprojResolveAssemblyReference.cache
+D:\new\PhoneApp2\PhoneApp2\obj\Debug\App.g.cs
+D:\new\PhoneApp2\PhoneApp2\obj\Debug\Page1.g.cs
+D:\new\PhoneApp2\PhoneApp2\obj\Debug\Page2.g.cs
+D:\new\PhoneApp2\PhoneApp2\obj\Debug\Page3.g.cs
+D:\new\PhoneApp2\PhoneApp2\obj\Debug\Page4.g.cs
+D:\new\PhoneApp2\PhoneApp2\obj\Debug\Page5.g.cs
+D:\new\PhoneApp2\PhoneApp2\obj\Debug\Page6.g.cs
+D:\new\PhoneApp2\PhoneApp2\obj\Debug\Page7.g.cs
+D:\new\PhoneApp2\PhoneApp2\obj\Debug\Page8.g.cs
+D:\new\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+D:\new\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\fonts\GrutchShaded.ttf
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\fonts\karabine.ttf
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.xap
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.xml
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.xml
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.xml
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\new\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\new\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+D:\new\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\fonts\GrutchShaded.ttf
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\fonts\karabine.ttf
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.xml
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.csprojResolveAssemblyReference.cache
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\obj\Debug\App.g.cs
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\obj\Debug\GetName.g.cs
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\obj\Debug\Page1.g.cs
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\obj\Debug\Page2.g.cs
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\obj\Debug\Page3.g.cs
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\obj\Debug\Page4.g.cs
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\obj\Debug\Page5.g.cs
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\obj\Debug\Page6.g.cs
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\obj\Debug\Page7.g.cs
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\obj\Debug\Page8.g.cs
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.xap
+C:\Users\vani\Documents\anubhac\5\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
+D:\PhoneApp2\PhoneApp2\Bin\Debug\fonts\GrutchShaded.ttf
+D:\PhoneApp2\PhoneApp2\Bin\Debug\fonts\karabine.ttf
+D:\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+D:\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+D:\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+D:\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+D:\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.xap
+D:\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.xml
+D:\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+D:\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.xml
+D:\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.xml
+D:\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+D:\PhoneApp2\PhoneApp2\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.csprojResolveAssemblyReference.cache
+D:\PhoneApp2\PhoneApp2\obj\Debug\App.g.cs
+D:\PhoneApp2\PhoneApp2\obj\Debug\Page1.g.cs
+D:\PhoneApp2\PhoneApp2\obj\Debug\Page2.g.cs
+D:\PhoneApp2\PhoneApp2\obj\Debug\Page3.g.cs
+D:\PhoneApp2\PhoneApp2\obj\Debug\Page4.g.cs
+D:\PhoneApp2\PhoneApp2\obj\Debug\Page5.g.cs
+D:\PhoneApp2\PhoneApp2\obj\Debug\Page6.g.cs
+D:\PhoneApp2\PhoneApp2\obj\Debug\Page7.g.cs
+D:\PhoneApp2\PhoneApp2\obj\Debug\Page8.g.cs
+D:\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+D:\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+D:\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+D:\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
+D:\PhoneApp2\PhoneApp2\obj\Debug\Page9.g.cs
+D:\PhoneApp2\PhoneApp2\obj\Debug\Page10.g.cs
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\fonts\GrutchShaded.ttf
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\fonts\karabine.ttf
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.xap
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.xml
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.csprojResolveAssemblyReference.cache
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\obj\Debug\App.g.cs
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\obj\Debug\Page1.g.cs
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\obj\Debug\Page10.g.cs
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\obj\Debug\Page2.g.cs
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\obj\Debug\Page3.g.cs
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\obj\Debug\Page4.g.cs
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\obj\Debug\Page5.g.cs
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\obj\Debug\Page6.g.cs
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\obj\Debug\Page7.g.cs
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\obj\Debug\Page8.g.cs
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\obj\Debug\Page9.g.cs
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+C:\Users\vani\Documents\anubhac\7\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\fonts\GrutchShaded.ttf
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\fonts\karabine.ttf
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.xml
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.xml
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Latest\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.csprojResolveAssemblyReference.cache
+D:\Latest\PhoneApp2\PhoneApp2\obj\Debug\App.g.cs
+D:\Latest\PhoneApp2\PhoneApp2\obj\Debug\Page1.g.cs
+D:\Latest\PhoneApp2\PhoneApp2\obj\Debug\Page10.g.cs
+D:\Latest\PhoneApp2\PhoneApp2\obj\Debug\Page2.g.cs
+D:\Latest\PhoneApp2\PhoneApp2\obj\Debug\Page3.g.cs
+D:\Latest\PhoneApp2\PhoneApp2\obj\Debug\Page4.g.cs
+D:\Latest\PhoneApp2\PhoneApp2\obj\Debug\Page5.g.cs
+D:\Latest\PhoneApp2\PhoneApp2\obj\Debug\Page6.g.cs
+D:\Latest\PhoneApp2\PhoneApp2\obj\Debug\Page7.g.cs
+D:\Latest\PhoneApp2\PhoneApp2\obj\Debug\Page8.g.cs
+D:\Latest\PhoneApp2\PhoneApp2\obj\Debug\Page9.g.cs
+D:\Latest\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+D:\Latest\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+D:\Latest\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+D:\Latest\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
+D:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2_Debug_AnyCPU.xap
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\fonts\GrutchShaded.ttf
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\fonts\karabine.ttf
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2_Debug_AnyCPU.xap
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.xml
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\Microsoft.Expression.Interactions.xml
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\System.Windows.Interactivity.xml
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\Latest\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.csprojResolveAssemblyReference.cache
+F:\Latest\PhoneApp2\PhoneApp2\obj\Debug\App.g.cs
+F:\Latest\PhoneApp2\PhoneApp2\obj\Debug\Page1.g.cs
+F:\Latest\PhoneApp2\PhoneApp2\obj\Debug\Page10.g.cs
+F:\Latest\PhoneApp2\PhoneApp2\obj\Debug\Page2.g.cs
+F:\Latest\PhoneApp2\PhoneApp2\obj\Debug\Page3.g.cs
+F:\Latest\PhoneApp2\PhoneApp2\obj\Debug\Page4.g.cs
+F:\Latest\PhoneApp2\PhoneApp2\obj\Debug\Page5.g.cs
+F:\Latest\PhoneApp2\PhoneApp2\obj\Debug\Page6.g.cs
+F:\Latest\PhoneApp2\PhoneApp2\obj\Debug\Page7.g.cs
+F:\Latest\PhoneApp2\PhoneApp2\obj\Debug\Page8.g.cs
+F:\Latest\PhoneApp2\PhoneApp2\obj\Debug\Page9.g.cs
+F:\Latest\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+F:\Latest\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+F:\Latest\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+F:\Latest\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
